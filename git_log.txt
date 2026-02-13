@@ -1,0 +1,92 @@
+commit 2e7bac1006052e776a0a23aef35e3e58d9ace61b
+Merge: 5d06840 fbd767e
+Author: igoradulyan <iadulya@calstatela.edu>
+Date:   Thu Feb 12 18:53:53 2026 -0800
+
+    On feature-about-me: !!GitHub_Desktop<feature-about-me>
+
+commit fbd767ed3306c56175e08df0658fd9fd193447b7
+Author: igoradulyan <iadulya@calstatela.edu>
+Date:   Thu Feb 12 18:53:53 2026 -0800
+
+    index on feature-about-me: 5d06840 Update profile info in index.html
+
+commit ceba33b1c21671dcf97500108d8190849246f824
+Merge: f7cc2a2 5d06840
+Author: igoradulyan <iadulya@calstatela.edu>
+Date:   Thu Feb 12 18:50:25 2026 -0800
+
+    Merge pull request #2 from igoradulyan/feature-about-me
+    
+    Update profile info in index.html
+
+commit 5d06840ae4521d610e860d83d996142e21de286b
+Author: igoradulyan <iadulya@calstatela.edu>
+Date:   Thu Feb 12 18:49:24 2026 -0800
+
+    Update profile info in index.html
+    
+    Update profile entries to more specific values: change name to Igor Adulyan, hobbies to Hiking, favorite food to Burger, and rephrase the fun fact to 'Igor loves playing Half-Life 2'.
+
+commit f7cc2a21f05aa91fa003544cb44e44dea629752e
+Merge: f37cdce ce67135
+Author: igoradulyan <iadulya@calstatela.edu>
+Date:   Thu Feb 12 18:45:37 2026 -0800
+
+    Merge pull request #1 from igoradulyan/feature-about-me
+    
+    Feature about me
+
+commit ce67135be4a6bf0b524140734a3fac8cb0574cd7
+Merge: 9c234e0 f37cdce
+Author: igoradulyan <iadulya@calstatela.edu>
+Date:   Thu Feb 12 18:45:24 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 9c234e0b497026e22df1dc8a50137fc20c3a948f
+Author: igoradulyan <iadulya@calstatela.edu>
+Date:   Thu Feb 12 18:38:41 2026 -0800
+
+    Personalize index.html with Igor's details
+    
+    Replace placeholder text in index.html with real values for Igor Adulyan: update name fields, hobbies (Coding), favorite food (BBQ), fun facts (plays Half‑Life 2), the groupmate section (Igor / Coding guy), and the footer copyright.
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
